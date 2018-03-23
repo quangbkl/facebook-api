@@ -1,11 +1,11 @@
 <?php
 
 $hubVerifyToken = 'quang_bff_khanh_linh';
-$access_token =   "EAAN3qJxqcx8BAK3ZCZARH9jp09xoQcTxi2gLO2XVC3qj6QybTYeNRgnHGMRwMeoIX7LHLacCk7YqHWSve6SJV5s5pkGujqdRUFRWslGJ5s0ltZBfzFoHGGdM9AsZAZBoErE8ZCf7qAmpMQBo9zIZAxaZBqhpfw2N585BzXZBAxbZCwDQZDZD";
-$servername = "sql210.byethost.com";
-$username = "b24_21134494";
-$password = "quangdev5$";
-$dbname = "b24_21134494_quang";
+$access_token =   "EAANZCZARH9jp09xoQcTxi2gLO2XVC3qj6QybTYeNRgnHGMRwMeoIX7LHLacCk7YqHWSve6SJV5s5pkGujqdRUFRWslGJ5s0ltZBfzFoHGGdM9AsZAZBoErE8ZCf7qAmpMQBo9zIZAxaZBqhpfw2N585BzXZBAxbZCwDQZDZD";
+$servername = "sql21om";
+$username = "b2434494";
+$password = "quan";
+$dbname = "b24_2113ang";
 
 
 if ($_REQUEST['hub_verify_token'] === $hubVerifyToken) {
